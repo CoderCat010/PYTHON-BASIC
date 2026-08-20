@@ -7,9 +7,3 @@ dvdvdvdvdvd
 dvdvdvfdvd
 evdvevevv
 vfdvedvdvfdv
-vfvfvfvf
-scscscscsc
-cscscscscsc
-dwdqwdqqcdwdwxssxsscscsscascscssca scc sduhjnuhd hyhyajh jajgbvia hahbgysgiyayvbcjnbgvdhbd uaxhjbahhsbh u iauabcb ujabcuahkjKvnsyshbxianavciauaahaua aubayugshxysg uaubcgaigjhbchabgayba ahybxavhabx  abxa8ana aunajhijbanbhaushga  ajcbahysbjsxbkab
-dwdqwdqqcdwdwxssxsscscssca
-sscscscs
