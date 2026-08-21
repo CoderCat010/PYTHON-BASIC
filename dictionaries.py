@@ -23,6 +23,11 @@ for x in thisdict:
   print(thisdict[x])
   print(thisdict[x])
   print(thisdict[x])
+  print(thisdict[x])
+  print(thisdict[x])
+  print(thisdict[x])
+  print(thisdict[x])
+  print(thisdict[x])
 
 
 # methods
