@@ -35,7 +35,6 @@
 # x = [2, 5, 1, 4, 3]
 # x.sort()
 # print(x)
-# print(x)
 
 # x = [2, 5, 1, 4, 3]
 # print(sorted(x, reverse=True))
