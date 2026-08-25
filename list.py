@@ -39,7 +39,6 @@
 # print(x)
 # print(x)
 # print(x)
-# print(x)
 
 
 # x = [2, 5, 1, 4, 3]
