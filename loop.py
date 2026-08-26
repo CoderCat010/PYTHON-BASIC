@@ -28,4 +28,3 @@
 # for x in fruits:
 #     print(x)
 #     print(x)
-#     print(x)
