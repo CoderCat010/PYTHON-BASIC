@@ -27,7 +27,6 @@
 # print(fullText)
 # print(fullText)
 # print(fullText)
-# print(fullText)
 
 
 # # numbers methods
