@@ -24,6 +24,11 @@
 # name = 'taku mama'
 # fullText = f'my name is john, my age {age}'
 # print(fullText)
+# print(fullText)
+# print(fullText)
+# print(fullText)
+# print(fullText)
+# print(fullText)
 
 
 # # numbers methods
