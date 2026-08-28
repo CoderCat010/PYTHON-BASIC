@@ -21,7 +21,6 @@
 #     print('yes')
 #     print('yes')
 #     print('yes')
-#     print('yes')
 
 # # f strings 
 # age = 60
