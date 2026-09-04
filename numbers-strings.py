@@ -30,8 +30,6 @@
 # xy = abs(3)
 # print(xy)
 # print(xy)
-# print(xy)
-# print(xy)
 
 # xz = round(4.74444, 3)
 # print(xz)
