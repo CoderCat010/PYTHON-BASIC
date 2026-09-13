@@ -10,3 +10,21 @@ print(num)
 print(arr)
 print(_)
 print(_user)
+
+
+# input
+input()
+nam1 = "akasher megh kalo hoye giyeche"
+print(input(nam1))
+print("hello")
+print("helo")
+print("helo")
+print("helo")
+
+# dongu
+'''
+jjj
+jjjjj
+- jjjj
+- jjj
+'''
