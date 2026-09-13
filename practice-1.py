@@ -30,5 +30,15 @@ jjjjj
 '''
 
 # indentation ----> it means space before print code line
+# note: i have to maintain same space for same block of code 
+# note: (:) clone it means new line in python
 if 5 > 2:  # noqa: PLR0133
   print("Five is greater than two!")
+  print("Five is greater than two!")
+
+# if we want to add both output in same line then we should use (end) parameter
+print("Hello World!", end=" ")
+print("I will print on the same line.")
+
+
+
