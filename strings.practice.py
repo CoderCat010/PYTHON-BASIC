@@ -5,6 +5,11 @@
 # print(a)
 
 
-# checking is a character of string existed
+# checking is a character of string existed by in
 x = 'hello'
 print('e' in x)
+
+# checking is a character of string existed by if with in
+x = 'hello'
+if 'e' in x:
+    print('yes')
