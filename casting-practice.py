@@ -1,4 +1,9 @@
 x = float(1)    
 y = float(2.8)  # noqa: UP018
-z = float("3")  
+z = float("hello")  
 w = float("4.2")
+
+print(x)
+print(y)
+print(z)
+print(w)
