@@ -13,3 +13,8 @@ print('e' in x)
 x = 'hello'
 if 'e' in x:
     print('yes')
+
+# checking is a character of string existed by if not with in
+x = 'hello'
+if 'e' not in x:
+    print('yes')
