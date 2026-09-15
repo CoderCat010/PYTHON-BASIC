@@ -24,3 +24,5 @@ age = 60
 name = 'taku mama'
 fullText = f'my name is john, my age {age}'
 print(fullText)
+
+
