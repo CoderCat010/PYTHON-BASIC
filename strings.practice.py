@@ -18,3 +18,9 @@ if 'e' in x:
 x = 'hello'
 if 'e' not in x:
     print('yes')
+
+# f strings 
+age = 60
+name = 'taku mama'
+fullText = f'my name is john, my age {age}'
+print(fullText)
