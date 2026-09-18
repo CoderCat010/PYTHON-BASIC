@@ -17,3 +17,9 @@ elif b > a:
     print('b is greater than a')
 else: 
     print('no they are not equal')
+
+
+# shorthand if else
+a = 2
+b = 3
+print('a is greater than b') if a > b else print('b is greater than a')
