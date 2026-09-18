@@ -23,3 +23,11 @@ else:
 a = 2
 b = 3
 print('a is greater than b') if a > b else print('b is greater than a')
+
+
+# logical operators for conditions
+a = 2
+b = 3
+c = 3
+if a < c and b == c: 
+    print('both conditions are true')
