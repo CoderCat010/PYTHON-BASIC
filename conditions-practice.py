@@ -33,3 +33,8 @@ if a < c and b == c:
     print('both conditions are true')
 if a < c or b == c: 
     print('At least one of the conditions is True')
+
+a = 2
+b = 5
+if not a > 5: 
+    print('a is not greater than b')
