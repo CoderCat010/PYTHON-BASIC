@@ -15,5 +15,5 @@ if a > b:
     print('a is greater than b')
 elif b > a: 
     print('b is greater than a')
-elif a == b: 
+else: 
     print('no they are not equal')
