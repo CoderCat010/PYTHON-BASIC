@@ -24,6 +24,7 @@
 #   print(i)
 #   i += 1
 
-fruits = ["apple", "banana", "cherry"]
-for x in fruits:
-    print(x)
+# fruits = ["apple", "banana", "cherry"]
+# for x in fruits:
+#     print(x)
+
