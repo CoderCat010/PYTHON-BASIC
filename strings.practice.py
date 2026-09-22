@@ -33,6 +33,9 @@
 # xz = round(4.74444, 3)
 # print(xz)
 
-x = 4
-print(float(x))
-print(int(2.4))
+# x = 4
+# print(float(x))
+# print(int(2.4))
+
+print(max(3, 4, 2))
+print(min(3, 4, 2))
