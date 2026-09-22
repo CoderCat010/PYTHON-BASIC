@@ -26,3 +26,8 @@ fullText = f'my name is john, my age {age}'
 print(fullText)
 
 
+# methods
+xy = abs(3)
+print(xy)
+
+
