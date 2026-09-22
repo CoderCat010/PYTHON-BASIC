@@ -39,3 +39,5 @@
 
 print(max(3, 4, 2))
 print(min(3, 4, 2))
+print(max('hfhff', 'ndjnjdsj', 'kkk'))
+print(min('hfhff', 'ndjnjdsj', 'kkk'))
