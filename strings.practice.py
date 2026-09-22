@@ -6,31 +6,33 @@
 
 
 # checking is a character of string existed by in
-x = 'hello'
-print('e' in x)
+# x = 'hello'
+# print('e' in x)
 
-# checking is a character of string existed by if with in
-x = 'hello'
-if 'e' in x:
-    print('yes')
+# # checking is a character of string existed by if with in
+# x = 'hello'
+# if 'e' in x:
+#     print('yes')
 
-# checking is a character of string existed by if not with in
-x = 'hello'
-if 'e' not in x:
-    print('yes')
+# # checking is a character of string existed by if not with in
+# x = 'hello'
+# if 'e' not in x:
+#     print('yes')
 
-# f strings 
-age = 60
-name = 'taku mama'
-fullText = f'my name is john, my age {age}'
-print(fullText)
-
-
-# methods
-xy = abs(3)
-print(xy)
-
-xz = round(4.74444, 3)
-print(xz)
+# # f strings 
+# age = 60
+# name = 'taku mama'
+# fullText = f'my name is john, my age {age}'
+# print(fullText)
 
 
+# # methods
+# xy = abs(3)
+# print(xy)
+
+# xz = round(4.74444, 3)
+# print(xz)
+
+x = 4
+print(float(x))
+print(int(2.4))
