@@ -26,7 +26,7 @@
 # print(fullText)
 
 
-# # methods
+# # numbers methods
 # xy = abs(3)
 # print(xy)
 
