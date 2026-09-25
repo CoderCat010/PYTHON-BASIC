@@ -21,8 +21,12 @@
 # print(fruits.pop(1))
 # print(fruits)
 
-# remove method --- remove item's by their names instead of index
+# # remove method --- remove item's by their names instead of index
+# x = ['a', 'hh', 'jj']
+# if 'a'in x:
+#     x.remove('a')
+#     print(x)
+
+# length 
 x = ['a', 'hh', 'jj']
-if 'a'in x:
-    x.remove('a')
-    print(x)
+print(len(x))
