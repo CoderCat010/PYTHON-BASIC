@@ -28,5 +28,16 @@
 #     print(x)
 
 # length 
-x = ['a', 'hh', 'jj']
-print(len(x))
+# x = ['a', 'hh', 'jj']
+# print(len(x))
+
+# sort() & sorted()
+# x = [2, 5, 1, 4, 3]
+# x.sort()
+# print(x)
+
+# x = [2, 5, 1, 4, 3]
+# print(sorted(x, reverse=True))
+
+x = ['dwdwdede', 'kk', 'dcdd', 'dfdfdvd']
+print(sorted(x, key=len))
