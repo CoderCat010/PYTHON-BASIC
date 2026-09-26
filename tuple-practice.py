@@ -9,3 +9,10 @@ t3[1] = 'kiwi'
 t1 = tuple(t3)
 print(t3)
 print(t1)
+
+
+fruits = ("apple", "banana", "cherry", "strawberry", "raspberry")
+(*green, yellow, red) = fruits
+print(green)
+print(yellow)
+print(red)
