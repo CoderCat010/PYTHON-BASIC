@@ -1,18 +1,25 @@
-t = (1, 2, 3)
-print(t)
-print(t.count(1))
-print(t.index(3))
+# t = (1, 2, 3)
+# print(t)
+# print(t.count(1))
+# print(t.index(3))
 
-t1 = (1, 2, 3, 4, 5)
-t3 = list(t1)
-t3[1] = 'kiwi'
-t1 = tuple(t3)
-print(t3)
-print(t1)
+# t1 = (1, 2, 3, 4, 5)
+# t3 = list(t1)
+# t3[1] = 'kiwi'
+# t1 = tuple(t3)
+# print(t3)
+# print(t1)
 
 
-fruits = ("apple", "banana", "cherry", "strawberry", "raspberry")
-(*green, yellow, red) = fruits
-print(green)
-print(yellow)
-print(red)
+# fruits = ("apple", "banana", "cherry", "strawberry", "raspberry")
+# (*green, yellow, red) = fruits
+# print(green)
+# print(yellow)
+# print(red)
+
+# methods
+# y = (1, 2, 3, 4, 5)
+# z = y.count(3)
+# print(z)
+# print(y.index(3))
+
