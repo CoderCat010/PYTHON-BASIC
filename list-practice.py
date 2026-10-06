@@ -39,5 +39,5 @@
 # x = [2, 5, 1, 4, 3]
 # print(sorted(x, reverse=True))
 
-x = ['dwdwdede', 'kk', 'dcdd', 'dfdfdvd']
-print(sorted(x, key=len))
+# x = ['dwdwdede', 'kk', 'dcdd', 'dfdfdvd']
+# print(sorted(x, key=len))

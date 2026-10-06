@@ -7,9 +7,13 @@
 # x = {1, 2, 3, 4, 5}
 # print(len(x))
 
-x = {1, 2, 3, 4, 5}
-for i in x: 
-    print(i)
+# x = {1, 2, 3, 4, 5}
+# for i in x: 
+#     print(i)
 
-if 6 in x: 
-    print('true')
+# if 6 in x: 
+#     print('true')
+
+thisset = {1, 2, 3, 4}
+thisset.add(5)
+print(thisset)
