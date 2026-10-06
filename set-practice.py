@@ -30,10 +30,11 @@
 # print(thisset)
 
 
-# remove
-thisset = {"apple", "banana", "cherry"}
-thisset.remove('banana')
-print(thisset)
+# remove, dischard
+# thisset = {"apple", "banana", "cherry"}
+# thisset.remove('banana')
+# thisset.discard('banana')
+# print(thisset)
 
 
 
