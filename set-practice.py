@@ -67,8 +67,15 @@
 # print(A.difference(B))
 
 
-# symmetrick differance
-A = {1, 2, 3, 4}
-B = {3, 4, 5, 6}
-print(A ^ B)
-print(A.symmetric_difference(B))
+# symmetric differance
+# A = {1, 2, 3, 4}
+# B = {3, 4, 5, 6}
+# print(A ^ B)
+# print(A.symmetric_difference(B))
+
+
+# issubset
+A = {1, 2}
+B = {1, 2, 3, 4}
+print(A.issubset(B))
+print(A <= B)
