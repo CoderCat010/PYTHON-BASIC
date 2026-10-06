@@ -34,6 +34,7 @@
 # thisset = {"apple", "banana", "cherry"}
 # thisset.remove('banana')
 # thisset.pop('banana')
+# thisset.clear()
 # thisset.discard('banana')
 # print(thisset)
 
