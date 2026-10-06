@@ -20,9 +20,20 @@
 # thisset.add(5)
 # print(thisset)
 
+
+# update ---- to concatinate another types of list collection with set
+# thisset = {"apple", "banana", "cherry"}
+# tropical = {"pineapple", "mango", "papaya"}
+# mylist = ["kiwi", "orange"]
+# x = thisset.update(tropical)
+# thisset.update(mylist)
+# print(thisset)
+
+
+# remove
 thisset = {"apple", "banana", "cherry"}
-tropical = {"pineapple", "mango", "papaya"}
-mylist = ["kiwi", "orange"]
-x = thisset.update(tropical)
-thisset.update(mylist)
+thisset.remove('banana')
 print(thisset)
+
+
+
