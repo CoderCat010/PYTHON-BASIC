@@ -82,10 +82,10 @@
 
 
 # # issubset
-# A = {1, 2}
-# B = {1, 2, 3, 4}
-# print(A.issuperset(B))
-# print(A >= B)
+A = {1, 2}
+B = {1, 2, 3, 4}
+print(A.issuperset(B))
+print(A >= B)
 
 
 # # isdisjoint
