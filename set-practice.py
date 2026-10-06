@@ -39,4 +39,8 @@
 # print(thisset)
 
 
-
+# copy
+thisset = {"apple", "banana", "cherry"}
+x = thisset.copy()
+y = x.add(3)
+print(x)
