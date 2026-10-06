@@ -22,5 +22,7 @@
 
 thisset = {"apple", "banana", "cherry"}
 tropical = {"pineapple", "mango", "papaya"}
-thisset.update(tropical)
+mylist = ["kiwi", "orange"]
+x = thisset.update(tropical)
+thisset.update(mylist)
 print(thisset)
