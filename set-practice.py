@@ -14,6 +14,13 @@
 # if 6 in x: 
 #     print('true')
 
-thisset = {1, 2, 3, 4}
-thisset.add(5)
+#----- Methods
+# add items
+# thisset = {1, 2, 3, 4}
+# thisset.add(5)
+# print(thisset)
+
+thisset = {"apple", "banana", "cherry"}
+tropical = {"pineapple", "mango", "papaya"}
+thisset.update(tropical)
 print(thisset)
