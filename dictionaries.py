@@ -5,3 +5,4 @@ thisdict = {
 }
 print(thisdict["brand"])
 print(len(thisdict))
+print(thisdict.keys())
