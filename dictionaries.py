@@ -22,6 +22,6 @@ marks = {"Rahim": 80, "Karim": 65}
 marks['Karim'] = 40
 marks["Sumi"] = 90    
 print(marks)
-print('Karim' in marks)
+# print('Karim' in marks)
 
 
