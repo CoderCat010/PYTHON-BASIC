@@ -21,5 +21,6 @@ thisdict = {
 marks = {"Rahim": 80, "Karim": 65}
 marks['Karim'] = 40
 print(marks)
+print('Karim' in marks)
 
 
