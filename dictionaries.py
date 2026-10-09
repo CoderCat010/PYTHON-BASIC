@@ -12,9 +12,14 @@ thisdict = {
 
 # methods
 # d[key]
+# marks = {"Rahim": 80, "Karim": 65}
+# print(marks['Rahim'])
+# print(marks.get('ehim'))
+# print(marks.get('ehim', 'no value found!'))
+
+# d[value]
 marks = {"Rahim": 80, "Karim": 65}
-print(marks['Rahim'])
-print(marks.get('ehim'))
-print(marks.get('ehim', 'no value found!'))
+marks['Karim'] = 40
+print(marks)
 
 
