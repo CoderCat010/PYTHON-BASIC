@@ -32,8 +32,10 @@ thisdict = {
   - del ---> remove items but return nothing 
 '''
 marks = {"Rahim": 80, "Karim": 65}
-removeItems = marks.pop('Rahim')
-remove1Items = marks.pop('Rahi', 'value pawa jai ni')
-print(marks)
-print(removeItems)
-print(remove1Items)
+# removeItems = marks.pop('Rahim')
+# remove1Items = marks.pop('Rahi', 'value pawa jai ni')
+
+# del marks['Karim']
+# print(marks)
+# print(removeItems)
+# print(remove1Items)
