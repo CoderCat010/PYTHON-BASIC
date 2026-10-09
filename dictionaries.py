@@ -17,9 +17,10 @@ thisdict = {
 # print(marks.get('ehim'))
 # print(marks.get('ehim', 'no value found!'))
 
-# d[value]
+# d[value] change & add
 marks = {"Rahim": 80, "Karim": 65}
 marks['Karim'] = 40
+marks["Sumi"] = 90    
 print(marks)
 print('Karim' in marks)
 
