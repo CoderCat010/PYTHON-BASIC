@@ -31,7 +31,7 @@ thisdict = {
   - pop ---> remove items & return the removed items
   - del ---> remove items but return nothing 
 '''
-marks = {"Rahim": 80, "Karim": 65}
+# marks = {"Rahim": 80, "Karim": 65}
 # removeItems = marks.pop('Rahim')
 # remove1Items = marks.pop('Rahi', 'value pawa jai ni')
 
@@ -39,3 +39,9 @@ marks = {"Rahim": 80, "Karim": 65}
 # print(marks)
 # print(removeItems)
 # print(remove1Items)
+
+
+# update ---> add items
+marks = {"Rahim": 80, "Karim": 65}
+marks.update({'color': 'red'})
+print(marks)
