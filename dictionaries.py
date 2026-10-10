@@ -10,6 +10,19 @@ thisdict = {
 # print(thisdict.items())
 
 
+# loop through dict
+thisdict = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+for x in thisdict:
+  print(x)
+
+for x in thisdict:
+  print(thisdict[x])
+
+
 # methods
 # d[key]
 # marks = {"Rahim": 80, "Karim": 65}
@@ -29,10 +42,12 @@ thisdict = {
 # pop & del
 '''
   - pop ---> remove items & return the removed items
+  - popitem ---> remove last items
   - del ---> remove items but return nothing 
 '''
 # marks = {"Rahim": 80, "Karim": 65}
 # removeItems = marks.pop('Rahim')
+# removeItems = marks.popitem()
 # remove1Items = marks.pop('Rahi', 'value pawa jai ni')
 
 # del marks['Karim']
@@ -42,6 +57,6 @@ thisdict = {
 
 
 # update ---> add items
-marks = {"Rahim": 80, "Karim": 65}
-marks.update({'color': 'red'})
-print(marks)
+# marks = {"Rahim": 80, "Karim": 65}
+# marks.update({'color': 'red'})
+# print(marks)
